@@ -10,17 +10,10 @@ def speak_to_grandma(phrase)
 end
    
    
-  "
-
-  end
-end
 
 
-  #else	  
-   # else
-    #  return "NO, NOT SINCE 1938!"	    
-    #end	  
-#end 	
+
+ 
 # Write a speak_to_grandma method.
 
 # Whatever you say to grandma, she should respond with
